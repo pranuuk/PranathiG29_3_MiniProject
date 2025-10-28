@@ -30,55 +30,6 @@ Context API – State management for the shopping cart.
 
 CSS (Inline & Simple Styling) – Basic styles for layout and design.
 
-📁 Project Structure
-mini-store/
-├─ src/
-│  ├─ components/
-│  │  └─ Navbar.jsx
-│  ├─ context/
-│  │  └─ CartContext.jsx
-│  ├─ pages/
-│  │  ├─ ProductsPage.jsx
-│  │  └─ CartPage.jsx
-│  ├─ App.jsx
-│  └─ main.jsx
-├─ package.json
-├─ vite.config.js
-└─ README.md
-
-💻 Getting Started
-
-Clone the repository
-
-git clone https://github.com/yourusername/REPO_NAME.git
-cd REPO_NAME
-
-
-Install dependencies
-
-npm install
-
-
-Run the app locally
-
-npm run dev
-
-
-Build for production
-
-npm run build
-
-
-Deploy to GitHub Pages (optional)
-
-npm run deploy
-
-
-Make sure your package.json has the correct homepage URL and basename is set in BrowserRouter for GitHub Pages.
-
-🎯 Usage
-
-Open the site.
 
 Browse products on the Products page (default homepage).
 
