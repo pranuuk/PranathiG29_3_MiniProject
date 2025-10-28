@@ -1,4 +1,7 @@
+
+
 {
+  "homepage": "https://pranuuk.github.io/PranathiG29_3_MiniProject/",
   "name": "shopping-cart",
   "private": true,
   "version": "0.0.0",
@@ -10,6 +13,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "react": "^19.1.1",
@@ -28,6 +32,4 @@
     "globals": "^16.4.0",
     "vite": "^7.1.7"
   }
-  
-
 }

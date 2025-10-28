@@ -33,7 +33,7 @@ const Navbar = () => {
 const App = () => {
   return (
     <CartProvider>
-      <Router>
+      <Router basename="/PranathiG29_3_MiniProject">
         <Navbar />
         <Routes>
           <Route path="/" element={<ProductsPage />} />
